@@ -1,6 +1,6 @@
 
 ## Project title: Réttir AI
-## Link to project video recording: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=41234df5-11fe-4269-ba71-b2a600440447
+[the project video](https://youtu.be/Dn9UeYrt50c)
 
 # Introduction:
 
